@@ -77,7 +77,3 @@ The Third-Party Risk Management project aims to identify, evaluate, and manage r
 - **Project Lead**: Venkata Swamy Bathala
 - **Third-Party Risk Specialist**: Venkata Swamy Bathala
 - **Vendor Management Expert**: Venkata Swamy Bathala
-
-## License
-
-This project is licensed under the MIT License.
